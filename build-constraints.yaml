@@ -3315,6 +3315,7 @@ packages:
         - massiv-test
         - scheduler
         - Color
+        - safe-decimal
 
     "Hans-Peter Deifel <hpd@hpdeifel.de> @hpdeifel":
         - hledger-iadd
