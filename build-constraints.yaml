@@ -3308,13 +3308,13 @@ packages:
         # - printcess # lens 4.16
 
     "Alexey Kuleshevich <lehins@yandex.ru> @lehins":
-        - wai-middleware-auth < 0 # via hoauth2
         # - hip # lens 4.16 via diagrams/chart
         - massiv
         - massiv-io
         - massiv-test
         - scheduler
         - Color
+        - wai-middleware-auth
 
     "Hans-Peter Deifel <hpd@hpdeifel.de> @hpdeifel":
         - hledger-iadd
